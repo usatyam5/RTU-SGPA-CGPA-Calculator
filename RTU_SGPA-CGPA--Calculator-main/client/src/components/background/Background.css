@@ -1,0 +1,14 @@
+ .blurryBackground {
+  position: absolute;
+  width: 100%;
+  height: 150vh;
+  margin: 0;
+  padding: 0;
+  background: url('grid.png') center;
+  background-size: 800px;
+  filter: blur(1px);
+  z-index: -1;
+}
+
+
+
